@@ -1,0 +1,115 @@
+body0003.png:1
+difficult puzzles 5
+shaded polygons 3
+complex levels 2
+
+body0004.png:1
+blocky pixelart 5
+lush forrests 3
+diverse characters 2
+
+body0005.png:1
+fast action 5
+ugly trolls 3
+mspaint grafics 2
+
+body0006.png:1
+insane powerups 5
+intense bossfights 3
+chiptune music 2
+
+body0007.png:1
+cyborg ninjas 5
+sneaking action 3
+hidden items 2
+
+face0011.png:2
+chunky bacon 5
+unusual mechanics 3
+mechanical brains 2
+
+face0012.png:2
+procedural generation 5
+micro management 3
+shaded polygons 2
+
+face0013.png:2
+shaded polygons 5
+ancient weapons 3
+magic items 2
+
+face0014.png:2
+social features 5
+cute animals 3
+cartoony grafics 2
+
+face0015.png:2
+pink horses 5
+flying dragons 3
+endless quests 2
+
+face0016.png:2
+sword battles 5
+adult humor 3
+drawing features 2
+
+face0017.png:2
+fps action 5
+massive multiplayer 3
+precise controls 2
+
+face0018.png:2
+alien elves 5
+magic spells 3
+complex story 2
+
+face0019.png:2
+ww2 allusions 5
+orchestral music 3
+hipster musings 2
+
+face0020.png:2
+tactical action 5
+fast gameplay 3
+catholic priests 2
+witch doctor 9
+
+face0021.png:2
+abstract grafics 5
+mindbending gameplay 3
+brutal splatter 2
+
+face0022.png:2
+level editing 5
+costum characters 3
+lush forrests 2
+
+face0024.png:3
+economic simulation 5
+comercial appeal 3
+conspiracy theory 2
+
+face0025.png:3
+intense action 5
+big explosions 3
+heavy looting 2
+
+face0026.png:3
+intense action 5
+big explosions 3
+heavy looting 2
+
+face0027.png:3
+voxel editing 5
+zombie killing 3
+endless gameplay 2
+
+face0028.png:3
+realistic simulation
+lavish particles 3
+giant mechs 2
+
+face0029.png:3
+slow motion 5
+heavy machinery 3
+wise elves 2
